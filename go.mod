@@ -1,4 +1,4 @@
-module jobstrap
+module ZhiPinSpiders
 
 go 1.15
 
