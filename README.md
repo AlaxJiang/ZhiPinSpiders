@@ -1,0 +1,2 @@
+# ZhiPinSpiders
+采用golang和selenium抓取Boss 职位,登录的话采取了展示登录窗口并等待15秒，自行登录，然后系统抓取页面并解析数据并保存为excel
